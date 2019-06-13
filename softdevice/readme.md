@@ -8,3 +8,4 @@ Das erneute Installieren ist ganz einfach. Laden Sie die microbit-adv.hex Datei 
     - _Der `MAINTENANCE-Modus` ist **nicht erforderlich!**_
 1.  Wechsel zum (Download-)Ordner mit der Datei microbit-adv.hex und mit einem _Rechtsklick_ auf die Datei mit 'SENDEN AN' Laufwerk: `MICROBIT (D:\)` die Hex-Datei installieren. Alternativ die Hex-Datei in das Laufwerk: `MICROBIT (D:\)` kopieren.
 1. Nun kann mit der Arduino-IDE der micro:bit mit C programmiert werden.
+
