@@ -7,7 +7,7 @@ Das erneute Installieren ist ganz einfach. Laden Sie die Microbit-adv.hex Datei 
 1. Den **micro:bit** am USB-Port des Computers anschliessen.  
     ![Laufwerk MICROBIT](bilder/laufwerk_microbit.png)
     - _Der `MAINTENANCE-Modus` ist **nicht erforderlich!**_
-1.  Wechsel zum (Download-)Ordner mit der Datei microbit-adv.hex und  
+1.  Wechsel zum (Download-)Ordner mit der Datei **microbit-adv.hex** und  
 mit einem _Rechtsklick_ auf die Hex-Datei mit `'SENDEN AN'` Laufwerk: `MICROBIT (D:)` die Hex-Datei installieren.  
 ![Senden an](bilder/senden_an.png)
 Alternativ die Hex-Datei in das Laufwerk: `MICROBIT (D:)` kopieren.
