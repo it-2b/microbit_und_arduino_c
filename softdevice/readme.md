@@ -14,7 +14,7 @@ Das erneute Installieren ist ganz einfach. Laden Sie die Microbit-adv.hex Datei 
     > _Der `MAINTENANCE-Modus` ist **nicht erforderlich!**_
 
 
-3.  Wechsel zum _(Download-)_Ordner mit der Datei **microbit-adv.hex** und  
+3.  Wechsel zum *(Download-)* Ordner mit der Datei **microbit-adv.hex** und  
 mit einem _Rechtsklick_ auf die Hex-Datei mit `'SENDEN AN'` Laufwerk: `MICROBIT (D:)` die Hex-Datei installieren.  
 
     ![Senden an](bilder/senden_an.png)  
